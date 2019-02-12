@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hydejack
+title: News
 slug: hydejack
 menu: true
 order: 1
