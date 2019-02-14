@@ -1,5 +1,5 @@
 ---
 title: Support
 menu: true
-order: 7
+order: 4
 ---
