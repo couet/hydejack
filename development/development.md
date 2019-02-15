@@ -20,4 +20,6 @@ developers and for people who want to contribute to the ROOT system.
  - [Conventions Violations](https://root.cern.ch/root/nightly/codecheck/codecheck.html)
  - [ROOT Logos](https://root.cern.ch/img/logos/ROOT_Logo/)
  - [Upgrade of ROOTbinder](https://root.cern.ch/rootbinder-checklist)
+ - [Run the tests](run_tests)
  - [Doxygen formatting](doxygen_formatting)
+ - [Setup ROOT externals from AFS/CVMFS](root_externals)
